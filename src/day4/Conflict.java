@@ -2,5 +2,7 @@ package day4;
 
 public class Conflict {
     //This is collection work is done
-    //This change is not known by branch
+    //THIS IS THE CUSTOM OUTPUT
+    //my merge
+    //GOOD JOB EVERYONE
 }
